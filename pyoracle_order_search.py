@@ -10,7 +10,7 @@ cx_Oracle.init_oracle_client(lib_dir=lib_dir)
 db_username = "username"
 db_password = "password"
 db_host = "x.x.x.x"
-db_port = "1521"
+db_port = "xxxx"
 db_service = "tns_name"
 
 # Path to the CSV file containing order numbers
